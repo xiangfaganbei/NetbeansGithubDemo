@@ -16,6 +16,7 @@ public class GithubDemo_feng {
      */
     public static void main(String[] args) {
         System.out.println("Hello Github from fenghebonjour local 12:00 2021-05-23");
+        System.out.println("Hello Github from fenghebonjour Website Github 12:04 2021-05-23");
     }
     
 }
