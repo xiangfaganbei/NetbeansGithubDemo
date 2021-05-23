@@ -10,5 +10,5 @@ package javaapplication3;
  * @author Feng
  */
 public class NewClass {
-    
+   String name="";
 }
